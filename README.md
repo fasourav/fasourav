@@ -11,11 +11,9 @@
 
 <p align="left"> <a href="https://twitter.com/fardin_sourav" target="blank"><img src="https://img.shields.io/twitter/follow/fardin_sourav?logo=twitter&style=for-the-badge" alt="fardin_sourav" /></a> </p>
 
-- 🌱 I’m currently learning **VueJs,React**
+- 🌱 I’m currently learning **.NET**
 
 - 📫 How to reach me **fardin_sourav@outlook.com**
-
-- ⚡ Fun fact **I copy codes from stackoverflow xD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
